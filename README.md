@@ -12,6 +12,9 @@ Set up your Garden and watch it grow....or die [PLAY:ManiacalLaughter.mp3]
 5. Don't talk about fight club 
 
 
+<p align="center">
+  <img src = "https://github.com/getyarley/getyarley-images/blob/master/GameOfLife.gif?raw=true"/>
+</p>
 
 
 ##### Language: Swift 
